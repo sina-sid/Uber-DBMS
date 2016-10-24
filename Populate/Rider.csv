@@ -1,0 +1,11 @@
+rid,r_fname,r_lname,rphone_num,credit_card,email,ride_credit,referrer,ref_date,ref_method
+R001,Earl,Craig,312-232-8983,1161-8191-1191-1827,cr@gmail.com,0,,,
+R002,Alexis,Clark,412-372-2783,1161-8191-1191-1828,alex12@gmail.com,40,R001,11/1/2013,email
+R003,Richard,Dean,627-372-1728,1161-8191-1191-1829,richardean@gmail.com,0,,,
+R004,Debra,Hodges,631-321-7873,1161-8191-1191-1830,dbjone@gmail.com,80,R001,6/8/2014,email
+R005,Alicia,Gregory,367-728-8181,1161-8191-1191-1831,alicory@gmail.com,20,,,
+R006,Brent,Simon,121-112-2819,1161-8191-1191-1832,brentsimon1@gmail.com,0,R003,9/7/2014,email
+R007,Danny,Morton,781-891-2719,1161-8191-1191-1833,mortonman@gmail.com,0,,,
+R008,Andria,Kanta,328-382-3948,1161-8191-1191-1834,erwil@gmail.com,20,R002,10/10/2015,phone
+R009,Isidora,Immaculata,362-238-3233,8239-2323-4849-4949,dsdmj1@gmail.com,0,,,
+R010,Farid,Kleisthenes,479-382-3282,1231-4542-5254-2452,hhe32nd@gmail.com,0,R008,11/11/2015,phone

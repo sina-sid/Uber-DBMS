@@ -1,0 +1,9 @@
+\copy Type     			FROM 'Populate/Type.csv'     			delimiter ',' csv header
+\copy Driver 			FROM 'Populate/Driver.csv' 				delimiter ',' csv header
+\copy Rider    			FROM 'Populate/Rider.csv'    			delimiter ',' csv header
+\copy Business_Rider    FROM 'Populate/Business_Rider.csv'    	delimiter ',' csv header
+\copy Trip_Details 		FROM 'Populate/Trip_Details.csv' 		delimiter ',' csv header
+\copy Trip    			FROM 'Populate/Trip.csv'    			delimiter ',' csv header
+\copy Rating    		FROM 'Populate/Rating.csv'    			delimiter ',' csv header
+\copy Driver_Rating    	FROM 'Populate/Driver_Rating.csv'    	delimiter ',' csv header
+\copy Rider_Rating    	FROM 'Populate/Rider_Rating.csv'    	delimiter ',' csv header
